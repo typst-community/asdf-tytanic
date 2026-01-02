@@ -69,16 +69,6 @@ download_release() {
             ;;
         esac
         ;;
-    *mingw* | *msys* | *cygwin* | *windows*)
-        case $arch in
-        "aarch64" | "arm64")
-            url="$GH_REPO/releases/download/v${version}/${TOOL_NAME}-aarch64-pc-windows-msvc.zip"
-            ;;
-        "x86_64")
-            url="$GH_REPO/releases/download/v${version}/${TOOL_NAME}-x86_64-pc-windows-msvc.zip"
-            ;;
-        esac
-        ;;
     esac
 
     echo "* Downloading $TOOL_NAME release $version..."
