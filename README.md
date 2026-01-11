@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-tytanic [![Build](https://github.com/quachpas/asdf-tytanic/actions/workflows/build.yml/badge.svg)](https://github.com/quachpas/asdf-tytanic/actions/workflows/build.yml) [![Lint](https://github.com/quachpas/asdf-tytanic/actions/workflows/lint.yml/badge.svg)](https://github.com/quachpas/asdf-tytanic/actions/workflows/lint.yml)
+# asdf-tytanic [![Build](https://github.com/typst-community/asdf-tytanic/actions/workflows/build.yml/badge.svg)](https://github.com/typst-community/asdf-tytanic/actions/workflows/build.yml) [![Lint](https://github.com/typst-community/asdf-tytanic/actions/workflows/lint.yml/badge.svg)](https://github.com/typst-community/asdf-tytanic/actions/workflows/lint.yml)
 
 [tytanic](https://typst-community.github.io/tytanic/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -26,7 +26,7 @@ Plugin:
 ```shell
 asdf plugin add tytanic
 # or
-asdf plugin add tytanic https://github.com/quachpas/asdf-tytanic.git
+asdf plugin add tytanic https://github.com/typst-community/asdf-tytanic.git
 ```
 
 tytanic:
@@ -52,8 +52,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/quachpas/asdf-tytanic/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/typst-community/asdf-tytanic/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Pascal Quach](https://github.com/quachpas/)
+See [LICENSE](LICENSE) © [Pascal Quach](https://github.com/quachpas/), [typst-community](https://github.com/typst-community/).
